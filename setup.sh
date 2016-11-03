@@ -2,6 +2,7 @@
 
 # On an Amazon EC2 g2 Ubuntu64 14.04 16gb ssd
 
+mkdir -p /home/ubuntu/log
 sudo apt-get update
 sudo apt-get install linux-generic -y
 sudo cp /home/ubuntu/riga/cron-step1 /etc/cron.d
