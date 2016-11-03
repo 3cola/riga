@@ -1,1 +1,1 @@
-@reboot /bin/bash /home/ubuntu/riga/start-zcash-flypool.sh > /home/ubuntu/log/run.log
+@reboot /home/ubuntu/riga/start-zcash-flypool.sh >> /home/ubuntu/log/run.log 2>&1

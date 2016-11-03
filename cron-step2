@@ -1,1 +1,1 @@
-@reboot /bin/bash /home/ubuntu/riga/step2.sh > /home/ubuntu/log/step2.log
+@reboot /home/ubuntu/riga/step2.sh >> /home/ubuntu/log/step2.log 2>&1
