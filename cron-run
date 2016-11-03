@@ -1,0 +1,1 @@
+@reboot bash /home/ubuntu/riga/start-zcash-flypool.sh
